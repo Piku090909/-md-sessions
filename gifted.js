@@ -279,7 +279,7 @@ function _0x14b7() {
     "prompt-sync",
     "1752511AWYTNf",
     "connection.update",
-    "Don't provide your SESSION_ID to anyone otherwise that user can control your Bot.\nRegards\nGifted Tech",
+    "Don't provide your SESSION_ID to anyone otherwise that user can control your Bot.\nRegards\nalexpiku Tech",
     "pino",
     "writeFileSync",
     "3695428gihZct",
@@ -531,13 +531,13 @@ async function start() {
             text: _0x205d62,
             contextInfo: {
               externalAdReply: {
-                title: "GIFTED MD",
+                title: "alexpiku MD",
                 body: "MULTIDEVICE WHATSAPP BOT",
                 renderLargerThumbnail: false,
-                thumbnail: "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
+                thumbnail: "https://telegra.ph/file/03fd14a9266797b4227cb.jpg",
                 mediaType: 1,
                 mediaUrl: "./scan.mp3",
-                sourceUrl: "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o",
+                sourceUrl: "https://whatsapp.com/channel/0029VaYESUGJkK7F76XsDj3L",
               },
             },
           });
